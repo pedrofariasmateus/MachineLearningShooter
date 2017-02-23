@@ -1,0 +1,17 @@
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\Content\barra_escudo.xnb
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\Content\barra_hp.xnb
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\Content\escudo.xnb
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\Content\nave.xnb
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\Content\grelha_balas.xnb
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\Content\bala.xnb
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\Content\Arial.xnb
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\PrimeiroJogo.exe
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\PrimeiroJogo.pdb
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\obj\x86\Release\PrimeiroJogo.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\obj\x86\Release\PrimeiroJogo.exe
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\obj\x86\Release\PrimeiroJogo.pdb
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\PrimeiroJogo.exe.manifest
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\bin\x86\Release\PrimeiroJogo.application
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\obj\x86\Release\PrimeiroJogo.exe.manifest
+C:\Users\Pedro\Dropbox\Backup\PrimeiroJogo\PrimeiroJogo\PrimeiroJogo\obj\x86\Release\PrimeiroJogo.application

@@ -1,0 +1,7 @@
+Content\barra_escudo.xnb
+Content\barra_hp.xnb
+Content\escudo.xnb
+Content\nave.xnb
+Content\grelha_balas.xnb
+Content\bala.xnb
+Content\Arial.xnb
